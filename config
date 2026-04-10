@@ -1,0 +1,9 @@
+
+
+# Work account (CodeBrew)
+Host github-codebrew
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_ed25519_codebrew
+  IdentitiesOnly yes
+
